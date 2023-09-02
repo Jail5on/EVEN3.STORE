@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "En4L36BZ4a+q+tsEJjEloP4EKX0/+99FUMeKKWEfKjXYjw1e1AC1cqxH6BIJIvxicoB1/QshPeDl5AldbJQd2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jss91\\OneDrive\\Documentos\\DEV\\EVEN3.STORE\\Even3.Store.Api\\Even3.Store.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jss91\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\jss91\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jss91\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\jss91\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\jss91\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\jss91\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\jss91\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

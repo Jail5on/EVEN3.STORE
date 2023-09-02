@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Even3.Store.Api.props" />
+</Project>
